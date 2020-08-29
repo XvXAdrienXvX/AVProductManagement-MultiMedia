@@ -1,0 +1,52 @@
+[
+  {
+    "productId": 1,
+    "productName": "Dark Souls 3",
+    "productCode": "GDN-0011",
+    "releaseDate": "March 19, 2019",
+    "description": "DS3",
+    "price": 19.95,
+    "starRating": 4.5,
+    "imageUrl": "assets/images/dark-souls-iii.jpg"
+  },
+  {
+    "productId": 2,
+    "productName": "Doom",
+    "productCode": "GDN-0023",
+    "releaseDate": "March 18, 2019",
+    "description": "Doom",
+    "price": 32.99,
+    "starRating": 4.2,
+    "imageUrl": "assets/images/doom.jpeg"
+  },
+  {
+    "productId": 5,
+    "productName": "Rise of the Tomb Raider",
+    "productCode": "TBX-0048",
+    "releaseDate": "May 21, 2019",
+    "description": "ROTR",
+    "price": 8.9,
+    "starRating": 4.5,
+    "imageUrl": "assets/images/tomb2.jpg"
+  },
+  {
+    "productId": 8,
+    "productName": "Uncharted 4",
+    "productCode": "TBX-0022",
+    "releaseDate": "May 15, 2019",
+    "description": "uncharted4",
+    "price": 11.55,
+    "starRating": 5,
+    "imageUrl": "assets/images/uncharted4.jpg"
+  },
+  {
+    "productId": 10,
+    "productName": "The Witcher 3",
+    "productCode": "GMG-0042",
+    "releaseDate": "October 15, 2018",
+    "description": "witcher3",
+    "price": 35.95,
+    "starRating": 5,
+    "imageUrl": "assets/images/witcher.jpg"
+  }
+]
